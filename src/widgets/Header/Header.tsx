@@ -6,7 +6,7 @@ import styles from './Header.module.less'
 const Header = ()=> {
   return (
     <Col span={24} className={styles.header}>
-      <NavLink to={'/'}>People list</NavLink>
+      <NavLink to={'/'}>People</NavLink>
       <NavLink to={'/applications'}>Apply</NavLink>
     </Col>
 
