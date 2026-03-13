@@ -1,0 +1,34 @@
+{
+  "applications": [
+    {
+      "name": "Zangar",
+      "phone": "87777777777",
+      "specility": "Frontend ",
+      "id": 1
+    },
+    {
+      "name": "joerik ",
+      "phone": "87777777777",
+      "specility": "front",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "phone": "87677777777",
+      "specility": "GameDev",
+      "id": 3
+    },
+    {
+      "name": "IlonMask",
+      "phone": "87677777779",
+      "specility": "Tesla",
+      "id": 6
+    },
+    {
+      "name": "ju",
+      "phone": "87777767777",
+      "specility": "front",
+      "id": 7
+    }
+  ]
+}
